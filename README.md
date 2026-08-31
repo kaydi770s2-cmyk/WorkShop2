@@ -106,3 +106,10 @@ SELECT
     tv.total_amount AS "ยอดเงิน"
 FROM pet p
 JOIN treatment_visit tv ON p.pet_id = tv.pet_id;
+
+
+<img width="1646" height="927" alt="image" src="https://github.com/user-attachments/assets/9ee5b165-0e77-47b9-9091-525b7619a016" />
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1030" height="850" alt="image" src="https://github.com/user-attachments/assets/566ea477-4e45-48da-b06c-a47fc5ac8977" />
